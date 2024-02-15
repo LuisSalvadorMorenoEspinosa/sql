@@ -1,0 +1,1 @@
+SELECT * FROM euroformac_clase.consultas_2;
